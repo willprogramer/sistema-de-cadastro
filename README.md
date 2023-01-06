@@ -9,5 +9,5 @@ npm install react
 ```
 
 ```
-node app.jd
+node app.js
 ```
